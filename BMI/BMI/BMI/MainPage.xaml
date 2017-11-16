@@ -11,14 +11,14 @@
 
             <Entry Text="160.0"
                    HorizontalOptions="CenterAndExpand"
-                   x:Name="Height"/>
+                   x:Name="height"/>
         </StackLayout>
                 <Label Text="体重を入力"
                    HorizontalOptions="CenterAndExpand"/>
         <StackLayout>
             <Entry Text="50.0"
                    HorizontalOptions="CenterAndExpand"
-                   x:Name="Weight"/>
+                   x:Name="weight"/>
 
             <Button Text="Welcome to Xamarin.Forms!"
                     HorizontalOptions="CenterAndExpand"/>
